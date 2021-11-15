@@ -16,3 +16,7 @@ Play with some fantastic ideas!
 ##### Other function under development:
 
 TO DO
+
+### zyins_detect
+
+`getTimes.py` gets the number of zyins salons attended and `send_mail.py` will send a mail to you if your number increases.
